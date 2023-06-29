@@ -4,7 +4,8 @@ The versioning project is a demo to a process of correctly versioning a project,
 
 This project used Java 17 and Gradle 8.1.1.
 
-This repository demonstrates the Java client of a weather service.
+This repository demonstrates the Java client of a weather service.<br>
+At the moment we don't do any versioning for the code.
 
 ## Usage
 ### Clone
