@@ -1,2 +1,1 @@
-# versioning-client-java
-A client for versioning demo
+# Versioning Project Demo - Java Client
